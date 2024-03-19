@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_crashr_io=self.webpackChunkdocs_crashr_io||[]).push([[1367],{9935:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/docs.crashr.io/blog/tags/docusaurus","allTagsPath":"/docs.crashr.io/blog/tags","count":4,"unlisted":false}')}}]);
