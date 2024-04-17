@@ -1,6 +1,6 @@
 # Summary
 
-![test](/static/img/docusaurus.png)
+![test](/img/docusaurus.png)
 
 # Table of contents
 
