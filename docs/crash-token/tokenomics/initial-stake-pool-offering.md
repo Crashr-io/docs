@@ -33,25 +33,25 @@ When you delegate to our stake pool, Epochs don't have to be consecutive. ONLY t
 
 **How many CRASH Tokens are rewarded per Epoch?**
 
-{% hint style="info" %}
+:::tip
 This is the simple Calculation​:\
 \
 **`Per ADA = 0.010 $CRASH`**
-{% endhint %}
+:::
 
 #### How do you calculate your rewards with Bonus? <a href="#how-to-calculate-your-rewards" id="how-to-calculate-your-rewards"></a>
 
-{% hint style="info" %}
+:::tip
 This is if ( you are applicable) for the bonus​:\
 \
 **`Total CRASH Rewards=(ADA×0.010*(Total Epochs))*(Bonus Percentage)`**&#x20;
-{% endhint %}
+:::
 
 IMAGE HERE
 
-{% hint style="danger" %}
+:::tip
 Upon the extension of the ISPO, the**`red`** bonuses are no longer available.&#x20;
-{% endhint %}
+:::
 
 ## Main ISPO Partner <a href="#our-ispo-partner" id="our-ispo-partner"></a>
 
