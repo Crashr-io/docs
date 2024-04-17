@@ -4,15 +4,16 @@ description: The Powerhouse.
 
 # $CRASH Tokenomics
 
-{% hint style="info" %}
+:::tip
 **Total Supply: 100,000,000 CRASH**
-{% endhint %}
+:::
 
 IMAGE HERE
 
-{% hint style="warning" %}
+::⚠️
 The Protocol Token for Crashr is $CRASH
-{% endhint %}
+:::
+
 
 Crashr is not just another digital asset trading platform; it's a decentralized ecosystem designed for traders. By allowing users to create listings, collect assets, and connect within the community, Crashr sets a new standard for what a trading platform can be. At the core of its operations and innovation is the $CRASH token, a powerhouse driving the protocol forward.
 
