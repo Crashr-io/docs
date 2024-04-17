@@ -40,7 +40,7 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, Png, description}: FeatureItem) {
+function Feature({title, Svg, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
