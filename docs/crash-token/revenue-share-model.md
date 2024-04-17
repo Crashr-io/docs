@@ -6,7 +6,7 @@ description: >-
 
 # Revenue Share Model
 
-IMAGE HERE
+![Revenue Share Pie-Chart](/img/chart.png)
 
 ## Revenue Share Model
 
