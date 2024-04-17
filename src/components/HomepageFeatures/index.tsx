@@ -10,32 +10,31 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Social Commerce',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Our platform seamlessly synthesizes the most advanced NFT trading tools into the largest multi-chain social network.    
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Problem',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Popular web3 marketplaces lack a pinnacle aspect of commerce; human interaction.
+        Without social engagement, transactional experiences become monotonous and isolating. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Solution',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Unify interaction and transaction, providing an exciting and engaging experience.
+        Welcome to the hub of web3, where you and other enthusiasts can not only buy, sell, and trade, but create, converse, and connect. 
       </>
     ),
   },
