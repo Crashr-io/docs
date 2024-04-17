@@ -1,14 +1,10 @@
----
-sidebar_position: 1
----
-
 # Summary
 
 # Table of contents
 
 ## Get Started
 
-* [Disclaimer](../Disclaimer.md)
+* [Disclaimer](Disclaimer.md)
 * [Whitepaper](Whitepaper.md)
 * [Introduction](Introduction.md)
 * [Roadmap](Roadmap.md)
