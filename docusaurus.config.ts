@@ -91,7 +91,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Links',
           items: [
             {
               label: 'Discord',
@@ -107,8 +107,8 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Medium',
+              href: 'https://medium.com/@Crashr',
             },
             {
               label: 'GitHub',
@@ -117,7 +117,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()}`,
     },
     prism: {
       theme: prismThemes.github,
