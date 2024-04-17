@@ -1,5 +1,7 @@
 # Summary
 
+<figure><img src="/static/img/docusaurus.png" alt=""><figcaption><p> </p></figcaption></figure>
+
 # Table of contents
 
 ## Get Started
