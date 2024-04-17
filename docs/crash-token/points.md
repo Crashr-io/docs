@@ -8,7 +8,7 @@ description: Point System of Crashr
 
 Points are awarded to both the buyer and seller of a transaction, equivalent in value to the ADA involved. For example: If your transaction is worth 100 ADA, you and the other party receive 100 Points that are linked to the connected wallet.
 
-IMAGE HERE
+![Points](/img/points.png)
 
 ## Points System Dynamics
 
