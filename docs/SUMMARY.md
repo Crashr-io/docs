@@ -1,6 +1,6 @@
 # Summary
 
-<figure><img src="/static/img/docusaurus.png" alt=""><figcaption><p> </p></figcaption></figure>
+![Nami](./img/docusaurus.png)
 
 # Table of contents
 
