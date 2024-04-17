@@ -4,10 +4,10 @@
 
 ## Get Started
 
-* [Disclaimer](../Disclaimer.md)
-* [Whitepaper](Whitepaper.md)
-* [Introduction](Introduction.md)
-* [Roadmap](Roadmap.md)
+[Disclaimer](../Disclaimer.md)
+[Whitepaper](Whitepaper.md)
+[Introduction](Introduction.md)
+[Roadmap](Roadmap.md)
 
 <!-- ## CRASH Token
 
