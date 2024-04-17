@@ -8,7 +8,7 @@ description: The Powerhouse.
 **Total Supply: 100,000,000 CRASH**
 :::
 
-IMAGE HERE
+![Tokenomics](/img/tokenomics.png)
 
 ::⚠️
 The Protocol Token for Crashr is $CRASH
