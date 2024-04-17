@@ -2,19 +2,19 @@
 
 ## Get Started
 
-* [Disclaimer](README.md)
-* [Whitepaper](README.md)
-* [Introduction](README.md)
-* [Roadmap](README.md)
+* [Disclaimer](Overview.md)
+* [Whitepaper](Overview.md)
+* [Introduction](Overview.md)
+* [Roadmap](Overview.md)
 
 ## CRASH Token
 
-* [$CRASH Tokenomics](README.md)
-  * [Distribution & Vesting](README.md)
-  * [$CRASH Staking](README.md)
-  * [Initial Stake Pool Offering](README.md)
-* [Revenue Share Model](README.md)
-* [Points](README.md)
+* [$CRASH Tokenomics](Overview.md)
+  * [Distribution & Vesting](Overview.md)
+  * [$CRASH Staking](Overview.md)
+  * [Initial Stake Pool Offering](Overview.md)
+* [Revenue Share Model](Overview.md)
+* [Points](Overview.md)
 
 ## Follow Us
 
