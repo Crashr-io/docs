@@ -24,9 +24,9 @@ const sidebars = {
      {
           type: 'category',
           label: 'Product Summary',
-          items: [tokenomics
-          ],
-    },
+          items: ['tokenomics'],
+    }
+   },
   ],
    */
 };
