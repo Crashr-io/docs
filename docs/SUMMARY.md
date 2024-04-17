@@ -2,33 +2,23 @@
 
 ![test](/img/docusaurus.png)
 
-:::tip
- this is a tip
-:::
-
-:::warning
-
-This article mentions most Docusaurus v3 breaking changes, but is not exhaustive. Read the [v3.0.0-beta.0 release notes](https://github.com/facebook/docusaurus/discussions/9312) for an exhaustive list.
-
-:::
-
 # Table of contents
 
 ## Get Started
 
-* [Disclaimer](Overview.md)
-* [Whitepaper](Overview.md)
+* [Disclaimer](README.md)
+* [Whitepaper](whitepaper.md)
 * [Introduction](Introduction.md)
-* [Roadmap](Overview.md)
+* [Roadmap](roadmap.md)
 
 ## CRASH Token
 
-* [$CRASH Tokenomics](Overview.md)
-  * [Distribution & Vesting](Overview.md)
-  * [$CRASH Staking](Overview.md)
-  * [Initial Stake Pool Offering](Overview.md)
-* [Revenue Share Model](Overview.md)
-* [Points](Overview.md)
+* [$CRASH Tokenomics](readme.md)
+  * [Distribution & Vesting](distribution-and-vesting.md)
+  * [$CRASH Staking](usdcrash-staking.md)
+  * [Initial Stake Pool Offering](initial-stake-pool-offering.md)
+* [Revenue Share Model](revenue-share-model.md)
+* [Points](points.md)
 
 ## Follow Us
 
