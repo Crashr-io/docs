@@ -58,7 +58,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'CRASHR',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -68,7 +68,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Get Started',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -85,7 +85,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             // {
-            //   label: 'Tutorial',
+            //   label: 'Get Started',
             //   to: '/docs/intro',
             // },
           ],
@@ -94,16 +94,12 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.com/invite/Crashr',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/crashr_io',
             },
           ],
         },
@@ -116,7 +112,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/Crashr-io/',
             },
           ],
         },
