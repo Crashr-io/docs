@@ -10,7 +10,7 @@ description: The Powerhouse.
 
 ![Tokenomics](/img/tokenomics.png)
 
-::⚠️
+:::warning
 The Protocol Token for Crashr is $CRASH
 :::
 
@@ -33,6 +33,6 @@ Holding $CRASH isn't just about participating in a vibrant trading environment; 
 
 ## Token Addresses
 
-::⚠️
+:::warning
 The wallets will be announced publicly & inputted in this field prior to the TGE.&#x20;
 :::
