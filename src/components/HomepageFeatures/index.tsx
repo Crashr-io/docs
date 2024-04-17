@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'png'>>;
+  Png: React.ComponentType<React.ComponentProps<'png'>>;
   description: JSX.Element;
 };
 
