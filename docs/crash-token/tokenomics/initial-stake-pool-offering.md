@@ -47,7 +47,7 @@ This is if ( you are applicable) for the bonus​:\
 **`Total CRASH Rewards=(ADA×0.010*(Total Epochs))*(Bonus Percentage)`**&#x20;
 :::
 
-IMAGE HERE
+![ISPO Bonus](/img/ispo rewards.png)
 
 :::tip
 Upon the extension of the ISPO, the**`red`** bonuses are no longer available.&#x20;
@@ -59,7 +59,7 @@ We are excited to announce that Crashr is partnering with Maestro for our Initia
 
 ## Partner SPOs
 
-IMAGE HERE
+![SPO Partners](/img/partner spo.png)
 
 Stake Pool Operator (SPO) partnership with four pools — [RUMOR](https://twitter.com/MladenLm), [KTOP](https://twitter.com/KTOP\_Pool), [HAPPY](https://twitter.com/happystaking), and [ELEMENTAL](https://twitter.com/ElementalPool) — as part of our CRASHR Initial Stake Pool Offering (ISPO).
 
