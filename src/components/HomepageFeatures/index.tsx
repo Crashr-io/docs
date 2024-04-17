@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Social Commerce',
-    Svg: require('@site/static/img/Bomber304.png').default,
+    Png: require('@site/static/img/Bomber304.png').default,
     description: (
       <>
         Our platform seamlessly synthesizes the most advanced NFT trading tools into the largest multi-chain social network.    
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Problem',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Png: require('@site/static/img/Bomber304.png').default,
     description: (
       <>
         Popular web3 marketplaces lack a pinnacle aspect of commerce; human interaction.
@@ -30,7 +30,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Solution',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Png: require('@site/static/img/Bomber304.png').default,
     description: (
       <>
         Unify interaction and transaction, providing an exciting and engaging experience.
@@ -40,11 +40,11 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, Png, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Png className={styles.featurePng} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
