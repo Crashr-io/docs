@@ -2,7 +2,15 @@
 
 ![test](/img/docusaurus.png)
 
-> This is  hint
+:::tip
+ this is a tip
+:::
+
+:::warning
+
+This article mentions most Docusaurus v3 breaking changes, but is not exhaustive. Read the [v3.0.0-beta.0 release notes](https://github.com/facebook/docusaurus/discussions/9312) for an exhaustive list.
+
+:::
 
 # Table of contents
 
