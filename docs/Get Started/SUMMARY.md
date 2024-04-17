@@ -1,7 +1,5 @@
 # Summary
 
-![test](/img/docusaurus.png)
-
 # Table of contents
 
 ## Get Started
