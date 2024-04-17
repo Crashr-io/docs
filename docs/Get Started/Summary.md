@@ -4,12 +4,12 @@
 
 ## Get Started
 
-* [Disclaimer](disclaimer.md)
-* [Whitepaper](whitepaper.md)
+* [Disclaimer](../Disclaimer.md)
+* [Whitepaper](Whitepaper.md)
 * [Introduction](Introduction.md)
-* [Roadmap](roadmap.md)
+* [Roadmap](Roadmap.md)
 
-## CRASH Token
+<!-- ## CRASH Token
 
 * [$CRASH Tokenomics](readme.md)
   * [Distribution & Vesting](distribution-and-vesting.md)
@@ -25,4 +25,4 @@
 * [Blog Posts](https://medium.com/@Crashr)
 * [X (Twitter)](https://twitter.com/crashr\_io)
 * [Discord](https://discord.com/invite/Crashr)
-* [v1.0\_Legacy](https://v1.crashr.io)
+* [v1.0\_Legacy](https://v1.crashr.io) -->

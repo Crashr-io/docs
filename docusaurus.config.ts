@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Official Documentation for Crashr Platform',
-  tagline: $CRASHR ISPO IS LIVE',
+  tagline: '$CRASHR ISPO IS LIVE',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
