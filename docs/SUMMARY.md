@@ -18,7 +18,7 @@ This article mentions most Docusaurus v3 breaking changes, but is not exhaustive
 
 * [Disclaimer](Overview.md)
 * [Whitepaper](Overview.md)
-* [Introduction](Overview.md)
+* [Introduction](Introduction.md)
 * [Roadmap](Overview.md)
 
 ## CRASH Token
