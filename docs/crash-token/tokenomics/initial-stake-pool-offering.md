@@ -90,4 +90,3 @@ Committed to sustainability, HAPPY Stake Pool operates on 100% renewable energy.
 **ELEMENTAL**\
 [Discover ELEMENTAL](https://www.elemt.xyz/)\
 ELEMENTAL is a mission-driven Single Stake Pool, where 30% of profits are donated to support open-source initiatives. Managed by @Solid\_snake\_dev, a dedicated Cardano open-source contributor, ELEMENTAL plays a vital role in the Cardano ecosystem by developing and contributing to open-source projects.\
-\
