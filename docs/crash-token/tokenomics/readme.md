@@ -33,6 +33,6 @@ Holding $CRASH isn't just about participating in a vibrant trading environment; 
 
 ## Token Addresses
 
-{% hint style="danger" %}
+::⚠️
 The wallets will be announced publicly & inputted in this field prior to the TGE.&#x20;
-{% endhint %}
+:::
