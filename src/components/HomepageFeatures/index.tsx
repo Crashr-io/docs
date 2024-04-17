@@ -4,14 +4,14 @@ import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Png: React.ComponentType<React.ComponentProps<'png'>>;
+  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
     title: 'Social Commerce',
-    Png: require('@site/static/img/Bomber304.png').default,
+    Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
         Our platform seamlessly synthesizes the most advanced NFT trading tools into the largest multi-chain social network.    
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Problem',
-    Png: require('@site/static/img/Bomber304.png').default,
+    Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
         Popular web3 marketplaces lack a pinnacle aspect of commerce; human interaction.
@@ -30,7 +30,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Solution',
-    Png: require('@site/static/img/Bomber304.png').default,
+    Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
         Unify interaction and transaction, providing an exciting and engaging experience.
@@ -44,7 +44,7 @@ function Feature({title, Png, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Png className={styles.featurePng} role="img" />
+        <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
