@@ -4,7 +4,7 @@
 
 ## Get Started
 
-* [Disclaimer](README.md)
+* [Disclaimer](disclaimer.md)
 * [Whitepaper](whitepaper.md)
 * [Introduction](Introduction.md)
 * [Roadmap](roadmap.md)
