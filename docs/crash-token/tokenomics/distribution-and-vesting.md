@@ -8,6 +8,6 @@
 
 To ensure a stable and healthy growth of the Crashr ecosystem, the emission of $CRASH tokens is carefully planned to follow a linear gradual release schedule.
 
-![Vesting](/chart2/docusaurus.png)
+![Vesting](/img/chart2.png)
 
 Join the CRASHR journey and be part of a platform where your contributions directly influence the ecosystem's future, all while reaping the rewards of a carefully crafted token economy.
