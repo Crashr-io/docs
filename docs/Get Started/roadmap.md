@@ -1,6 +1,3 @@
----
-sidebar_position: 2
----
 # Roadmap
 
 For the roadmap and future initiatives of the Crashr Protocol, we recognize there is more room for growth and improvements. To explore more opportunities in the Crashr ecosystem, some of the plans include:
