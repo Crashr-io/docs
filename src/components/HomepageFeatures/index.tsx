@@ -15,6 +15,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Create your next trade with zero hurdles, and the lowest fees on-chain.
+
       </>
     ),
   },
@@ -24,6 +25,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Bringing digital asset diversification to another level, collect all on-chain assets and showcase them to your community.
+
       </>
     ),
   },
@@ -33,6 +35,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Elevate the peer to peer economy by connecting with others and trade up to your dream digital asset.  
+
       </>
     ),
   },
