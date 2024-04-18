@@ -10,31 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Social Commerce',
+    title: 'Create',
     Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        Our platform seamlessly synthesizes the most advanced NFT trading tools into the largest multi-chain social network.    
+        Create your next trade with zero hurdles, and the lowest fees on-chain.
       </>
     ),
   },
   {
-    title: 'Problem',
+    title: 'Collect',
     Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        Popular web3 marketplaces lack a pinnacle aspect of commerce; human interaction.
-        Without social engagement, transactional experiences become monotonous and isolating. 
+        Bringing digital asset diversification to another level, collect all on-chain assets and showcase them to your community.
       </>
     ),
   },
   {
-    title: 'Solution',
+    title: 'Connect',
     Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        Unify interaction and transaction, providing an exciting and engaging experience.
-        Welcome to the hub of web3, where you and other enthusiasts can not only buy, sell, and trade, but create, converse, and connect. 
+        Elevate the peer to peer economy by connecting with others and trade up to your dream digital asset.  
       </>
     ),
   },
