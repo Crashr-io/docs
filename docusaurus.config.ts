@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Official Documentation for Crashr',
-  tagline: 'An advanced digital asset trading platform.',
+  tagline: 'An advanced digital asset trading platform',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
