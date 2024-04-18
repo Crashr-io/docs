@@ -20,14 +20,7 @@ const sidebars: SidebarsConfig = {
     {
     type: 'category',
       label: 'Overview',
-      items: ['Get Started/Readme',
-          {
-          type: 'category',
-          label: 'Token',
-          items: [
-            'crash-token/Points',
-          ],
-        },
+      items: ['/Readme',
     },
   ],
 
