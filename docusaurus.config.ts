@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Official Documentation for Crashr Platform',
+  title: 'Official Documentation for Crashr',
   tagline: 'An advanced digital asset trading platform.',
   favicon: 'img/favicon.ico',
 
