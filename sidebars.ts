@@ -20,7 +20,7 @@ const sidebars: SidebarsConfig = {
     {
     type: 'category',
       label: 'Overview',
-      items: ['Roadmap',
+      items: 'Roadmap',
     },
   ],
 
