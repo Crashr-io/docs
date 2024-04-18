@@ -19,15 +19,9 @@ module.exports = {
     // Other sidebar items...
     'External Links': [
       {
-        type: 'category',
-        label: 'Token',
-        items: [
-          {
-            type: 'link',
-            label: 'Token',
-            href: 'https://v2.docs.crashr.io/docs/crash-token',
-          },
-        ],
+        type: 'link',
+        label: 'Crash Token',
+        href: 'https://v2.docs.crashr.io/docs/crash-token',
       },
     ],
   },
