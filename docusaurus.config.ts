@@ -70,10 +70,19 @@ const config: Config = {
           position: 'left',
           label: 'Get Started',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/Crashr-io/',
-          label: 'GitHub',
+          href: 'https://docs.crashr.io/',
+          label: 'Whitepaper',
+          position: 'left',
+        },
+        {
+          href: 'https://beta.crashr.io/',
+          label: 'Legacy Website',
+          position: 'left',
+        },
+        {
+          href: 'https://linktr.ee/crashr',
+          label: 'More',
           position: 'right',
         },
       ],
