@@ -20,11 +20,7 @@ const sidebars: SidebarsConfig = {
     {
     type: 'category',
       label: 'Overview',
-      items: ['Summary',
-        'Disclaimer',
-        'Introduction',
-        'Whitepaper',
-	'Roadmap',
+      items: ['Get Started/Readme',
           {
           type: 'category',
           label: 'Token',
