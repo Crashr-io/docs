@@ -72,7 +72,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Crashr-io/',
           label: 'GitHub',
           position: 'right',
         },
@@ -94,12 +94,16 @@ const config: Config = {
           title: 'Links',
           items: [
             {
+              label: 'Twitter',
+              href: 'https://twitter.com/crashr_io',
+            },
+            {
               label: 'Discord',
               href: 'https://discord.com/invite/Crashr',
             },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/crashr_io',
+             {
+              label: 'Telegram',
+              href: 'https://t.me/Crashr_io',
             },
           ],
         },
@@ -113,6 +117,10 @@ const config: Config = {
             {
               label: 'GitHub',
               href: 'https://github.com/Crashr-io/',
+            },
+            {
+              label: 'Reddit',
+              href: 'https://www.reddit.com/r/Crashr/?rdt=54337',
             },
           ],
         },
