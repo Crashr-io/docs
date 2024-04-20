@@ -2,15 +2,16 @@
 sidebar_position: 1
 ---
 
+# Introduction
+
 # Summary
 
 # Table of contents
 
-## Get Started
+## Overview
 
 * [Disclaimer](Disclaimer.md)
 * [Whitepaper](Whitepaper.md)
-* [Introduction](Introduction.md)
 * [Roadmap](Roadmap.md)
 
 ## CRASH Token
