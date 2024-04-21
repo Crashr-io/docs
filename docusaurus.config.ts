@@ -76,13 +76,18 @@ const config: Config = {
           position: 'left',
         },
         {
+          href: 'https://crashr.io/',
+          label: 'dApp Platform,
+          position: 'right',
+        },
+        {
           href: 'https://beta.crashr.io/',
-          label: 'Legacy Website',
-          position: 'left',
+          label: 'v.1.0',
+          position: 'right',
         },
         {
           href: 'https://linktr.ee/crashr',
-          label: 'More',
+          label: 'Socials',
           position: 'right',
         },
       ],
