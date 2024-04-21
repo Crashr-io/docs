@@ -77,8 +77,8 @@ const config: Config = {
         },
         {
           href: 'https://crashr.io/',
-          label: 'dApp Platform,
-          position: 'right',
+          label: 'dApp Platform',
+          position: 'left',
         },
         {
           href: 'https://beta.crashr.io/',
