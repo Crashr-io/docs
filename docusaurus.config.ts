@@ -71,11 +71,6 @@ const config: Config = {
           label: 'Overview',
         },
         {
-          href: 'https://docs.crashr.io/',
-          label: 'Whitepaper',
-          position: 'left',
-        },
-        {
           href: 'https://crashr.io/',
           label: 'dApp Platform',
           position: 'left',
