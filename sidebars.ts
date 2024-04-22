@@ -27,9 +27,9 @@ const sidebars = {
       type: 'category',
       label: '$CRASH Tokenomics',
       items: [
+        'tokenomics/readme',
         'tokenomics/distribution-and-vesting',
         'tokenomics/initial-stake-pool-offering',
-        'tokenomics/readme',
         'tokenomics/usdcrash-staking',
         
       ],
