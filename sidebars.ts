@@ -16,16 +16,22 @@ const sidebars = {
       type: 'category',
       label: 'Introduction',
       items: [
-        'Get Started', // Assuming the file is named Get Started.md in the docs directory
-        // Add more items here as necessary
+        'Get Started/Disclaimer',
+        'Get Started/Readme',
+        'Get Started/Roadmap',
+        'Get Started/Whitepaper',
+        // Include any other documents from the Get Started section as necessary
       ],
     },
     {
       type: 'category',
       label: '$CRASH Tokenomics',
       items: [
-        'tokenomics', // Assuming the file is named tokenomics.md in the docs directory
-        // Add more items here as necessary
+        'tokenomics/distribution-and-vesting',
+        'tokenomics/initial-stake-pool-offering',
+        'tokenomics/readme',
+        'tokenomics/usdcrash-staking',
+        // Include any other documents from the Tokenomics section as necessary
       ],
     },
     'points', // Assuming the file is named points.md in the docs directory
@@ -34,4 +40,5 @@ const sidebars = {
 };
 
 module.exports = sidebars;
+
 
