@@ -16,35 +16,22 @@ const sidebars = {
       type: 'category',
       label: 'Introduction',
       items: [
-        'docs/Get Started', // Replace with the actual file path within the docs directory
-        // Add more items here as necessary
-      ],
-    },
-   {
-      type: 'category',
-      label: '$Crashr Tokenomics',
-      items: [
-        'docs/tokenomics', // Replace with the actual file path within the docs directory
-        // Add more items here as necessary
-      ],
-    },
-   {
-      type: 'doc',
-      label: 'Points',
-      items: [
-        'docs/points.md', // Replace with the actual file path within the docs directory
+        'Get Started', // Assuming the file is named Get Started.md in the docs directory
         // Add more items here as necessary
       ],
     },
     {
-      type: 'doc',
-      label: 'Revenue Share Model',
+      type: 'category',
+      label: '$CRASH Tokenomics',
       items: [
-        'docs/revenue-share-model.md', // Replace with the actual file path within the docs directory
+        'tokenomics', // Assuming the file is named tokenomics.md in the docs directory
         // Add more items here as necessary
       ],
     },
+    'points', // Assuming the file is named points.md in the docs directory
+    'revenue-share-model', // Assuming the file is named revenue-share-model.md in the docs directory
   ],
 };
 
 module.exports = sidebars;
+
