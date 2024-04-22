@@ -12,15 +12,15 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
  */
 const sidebars = {
   tutorialSidebar: [
+    'Get Started/Disclaimer',  
     {
       type: 'category',
       label: 'Introduction',
       items: [
-        'Get Started/Disclaimer',
         'Get Started/Readme',
         'Get Started/Roadmap',
         'Get Started/Whitepaper',
-        // Include any other documents from the Get Started section as necessary
+        
       ],
     },
     {
@@ -31,11 +31,11 @@ const sidebars = {
         'tokenomics/initial-stake-pool-offering',
         'tokenomics/readme',
         'tokenomics/usdcrash-staking',
-        // Include any other documents from the Tokenomics section as necessary
+        
       ],
     },
-    'points', // Assuming the file is named points.md in the docs directory
-    'revenue-share-model', // Assuming the file is named revenue-share-model.md in the docs directory
+    'points',  
+    'revenue-share-model',  
   ],
 };
 
