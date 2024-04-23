@@ -15,7 +15,7 @@ const sidebars = {
     'Get Started/Disclaimer',  
     {
       type: 'category',
-      label: 'Introduction',
+      label: 'Protocol Overview',
       items: [
         'Get Started/Readme',
         'Get Started/Roadmap',
@@ -25,17 +25,24 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: '$CRASH Tokenomics',
+      label: 'Protocol Token',
       items: [
         'tokenomics/readme',
         'tokenomics/distribution-and-vesting',
         'tokenomics/initial-stake-pool-offering',
-        'tokenomics/usdcrash-staking',
         
       ],
     },
-    'points',  
-    'revenue-share-model',  
+    {
+      type: 'category',
+      label: 'Protocol Revenue Share Model',
+      items: [
+        'revenue-share-model', 
+        'tokenomics/usdcrash-staking',
+
+      ],
+    },
+    'points', 
   ],
 };
 
