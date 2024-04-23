@@ -10,7 +10,7 @@ description: The Powerhouse.
 
 ![Tokenomics](/img/tokenomics.png)
 
-:::warning
+:::tip
 The Protocol Token for Crashr is $CRASH
 :::
 
@@ -29,7 +29,7 @@ Holding $CRASH isn't just about participating in a vibrant trading environment; 
 
 **4) SDK and Analytics Utilization:** Access to Software Development Kits (SDKs) and analytics tools empowers you to build, analyze, and innovate.&#x20;
 
-**5) Early Access:** Be the first to explore new products and updates.
+**5) Early Access:** Be the first to explore our new products and updates.
 
 ## Token Addresses
 
