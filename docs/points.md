@@ -2,7 +2,7 @@
 description: Point System of Crashr
 ---
 
-# Points
+# Points Incentive
 
 ## **Acquisition of Points**
 
