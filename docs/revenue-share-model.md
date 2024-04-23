@@ -20,12 +20,12 @@ The treasury supports the platform's development, maintenance, and expansion. It
 
 ### Staking
 
-Staking rewards play a crucial role in promoting long-term engagement and stability within the ecosystem. Rewards are determined based on the [amount and duration](revenue-share-model.md#staking) of $CRASH tokens staked, with the total fees allocated for staking distributed to participants in the currency of ADA (Cardano).
+Staking rewards play a crucial role in promoting long-term engagement and stability within the ecosystem. Rewards are determined based on the [amount and duration](revenue-share-model.md#staking) of $CRASH tokens staked, with the total fees allocated for staking distributed to participants in $CRASH token.
 
 **Allocation**: **20%** of all collected fees.
 
 ### Buyback
 
-Aimed at stabilizing and boosting the $CRASH token's value, the buyback is conducted quarterly, it uses a set portion of the fees to repurchase $CRASH tokens. These tokens are then reintegrated into the treasury, earmarked for release via DAO approval or as part of community reward incentives.
+Aimed at stabilizing and boosting the $CRASH token's value, the buyback is conducted quarterly, it uses a set portion of the fees to repurchase $CRASH tokens. These tokens are then reintegrated into the treasury, earmarked for release via DAO approval or towards the protocol rewards.
 
-**Allocation**: **20%** of all collected fees.\
+**Allocation**: **20%** of all collected fees.
