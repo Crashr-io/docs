@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Create',
-    Svg: require('@site/static/img/Bomber1.svg').default,
+    Svg: require('@site/static/img/Create.svg').default,
     description: (
       <>
         Create your next trade with zero hurdles, and the lowest fees on-chain.
