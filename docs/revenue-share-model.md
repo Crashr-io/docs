@@ -20,7 +20,7 @@ The treasury supports the platform's development, maintenance, and expansion. It
 
 ### Staking
 
-Staking rewards play a crucial role in promoting long-term engagement and stability within the ecosystem. Rewards are determined based on the [amount and duration](revenue-share-model.md#staking) of $CRASH tokens staked, with the total fees allocated for staking distributed to participants in $CRASH token.
+Staking rewards play a crucial role in promoting long-term engagement and stability within the ecosystem. Rewards are determined based on the [amount and duration](docs/tokenomics/usdcrash-staking.md) of $CRASH tokens staked, with the total fees allocated for staking distributed to participants in $CRASH token.
 
 **Allocation**: **20%** of all collected fees.
 
