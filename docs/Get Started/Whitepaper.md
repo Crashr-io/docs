@@ -3,5 +3,6 @@ sidebar_position: 3
 ---
 # Whitepaper
 
-[Click to download Whitepaper](/img/Crashr-Whitepaper.pdf)
 
+
+<a href="/img/Crashr-Whitepaper.pdf" download="Crashr-Whitepaper.pdf">Click to download Whitepaper</a>
