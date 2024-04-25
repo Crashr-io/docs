@@ -10,7 +10,7 @@ An Initial Stake Pool Offering (ISPO) is an innovative fundraising mechanism uti
 
 ## Crashr ISPO
 
-CRASH is a cutting-edge platform that harnesses the power of the Cardano Blockchain. Unlike other blockchain technologies, Cardano distinguishes itself with its unique functionalities and features. This makes it an ideal choice for our platform, allowing us to leverage its robust and innovative ecosystem for our Initial Stake Pool Offering (ISPO). This ISPO is a cornerstone of our strategy, enabling us to tap into the strengths of Cardano's Proof of Stake (PoS) system, and aligning perfectly with our commitment to innovation and community engagement.
+Crashr harnesses the potential of the Cardano Blockchain. Unlike other blockchain technologies, Cardano distinguishes itself with its unique functionalities and features. This makes it an ideal choice for our platform, allowing us to leverage its robust and innovative ecosystem for our Initial Stake Pool Offering (ISPO). This ISPO is a cornerstone of our strategy, enabling us to tap into the strengths of Cardano's Proof of Stake (PoS) system, and aligning perfectly with our commitment to innovation and community engagement.
 
 ## **ISPO Details** <a href="#ispo-details" id="ispo-details"></a>
 
@@ -25,7 +25,7 @@ CRASH is a cutting-edge platform that harnesses the power of the Cardano Blockch
 
 ## Rewards Calculator
 
-CRASHR employs a straightforward and equitable reward system, designed for clarity and fairness for all participants. Those who delegate to our stake pool early will optimize their CRASH token rewards.
+Crashr employs a straightforward and equitable reward system, designed for clarity and fairness for all participants. Those who delegate to our stake pool early will optimize their CRASH token rewards.
 
 &#x20;In addition to the standard ISPO rewards, our delegators have the opportunity to earn extra through our Bonus Reward Program which is based on _Amount of Epochs_ and _NFT holdings_.&#x20;
 
@@ -61,11 +61,11 @@ We are excited to announce that Crashr is partnering with Maestro for our Initia
 
 ![SPO Partners](/img/partner-spo.png)
 
-Stake Pool Operator (SPO) partnership with four pools — [RUMOR](https://twitter.com/MladenLm), [KTOP](https://twitter.com/KTOP\_Pool), [HAPPY](https://twitter.com/happystaking), and [ELEMENTAL](https://twitter.com/ElementalPool) — as part of our CRASHR Initial Stake Pool Offering (ISPO).
+Stake Pool Operator (SPO) partnership with four pools — [RUMOR](https://twitter.com/MladenLm), [KTOP](https://twitter.com/KTOP\_Pool), [HAPPY](https://twitter.com/happystaking), and [ELEMENTAL](https://twitter.com/ElementalPool) — as part of our Crashr Initial Stake Pool Offering (ISPO).
 
 ### **Our Partnership**
 
-We have structured our partnership so that 10% of the rewards accrued in the main pool: [**CRASH**](https://www.gomaestro.org/marketplace/37), for each epoch, commencing with Epoch 459, will be uniformly distributed among our four partner stake pools as part of our ISPO allocation. This equitable distribution strategy is meticulously designed to ensure that every partner pool derives equal benefit from their contributions to CRASHR’s ecosystem.
+We have structured our partnership so that 10% of the rewards accrued in the main pool: [**CRASH**](https://www.gomaestro.org/marketplace/37), for each epoch, commencing with Epoch 459, will be uniformly distributed among our four partner stake pools as part of our ISPO allocation. This equitable distribution strategy is meticulously designed to ensure that every partner pool derives equal benefit from their contributions to Crashr’s ecosystem.
 
 The Partnership is rooted in the fundamental belief of strengthening the Cardano ecosystem through collaboration and mutual support. By partnering with SPOs, we are not only expanding the reach and impact of the CRASH token but also fostering a more interconnected and robust community. This collaborative effort with SPOs ensures that the benefits of our growth are shared, contributing to a more decentralized and equitable blockchain environment. It’s a step towards nurturing a vibrant, and engaged community.
 
