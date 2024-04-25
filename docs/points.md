@@ -12,16 +12,12 @@ Points are awarded to both the buyer and seller of a transaction, equivalent in 
 
 ## Points System Dynamics
 
-Instead of directly awarding $CRASH tokens for every transaction, Crashr introduces a points system. This approach is developed to prevent the rapid dispersion of tokens, which could lead to devaluation due to oversupply.&#x20;
+Instead of directly awarding $CRASH tokens for every transaction, Crashr introduces a points system. This approach is developed to prevent the rapid dispersion of tokens and to allow all protocol users to be fairly rewarded. Each quarter, the points will be converted into $CRASH tokens, dependent on the distribution and vesting of the token.&#x20;
 
-Here’s how it benefits the ecosystem:
+Ecosystem benefits:
 
 * **Mitigating Volatility:** By awarding points for transactions instead of tokens, we minimize the risk of token over saturation. This careful control helps maintain the token's value and ensures a stable trading environment.
-* **Flexible Rewards:** Users accumulate points through their activity on Crashr. These points are not just placeholders; they're a versatile currency within our platform. With them, users can claim $CRASH tokens according to a set vesting schedule, aligning with our gradual release strategy to further stabilize the token economy.
-
-### Points for NFTs
-
-The utility of points extends beyond token claims. Recognizing the diverse interests of our users, points can also be transferred towards acquiring Non-Fungible Tokens (NFTs) within the Crashr ecosystem.&#x20;
+* **Flexible Rewards:** Users accumulate points through their activity on Crashr which than users can convert to $CRASH tokens.
 
 ## Current Points v1.0
 
@@ -29,4 +25,4 @@ Points are currently awarded to users for staking our NFT collection and to earl
 
 ## Conclusion
 
-Our points system is at the heart of Crashr's commitment to creating a sustainable, user-centric trading platform. By innovating beyond traditional token rewards, we offer a balanced approach that rewards user activity while maintaining the integrity and value of the ecosystem.&#x20;
+Our points system is to creating a sustainable, user-centric trading platform. By innovating beyond traditional token rewards, we offer a balanced approach that rewards users while maintaining the integrity and value of the ecosystem.&#x20;
