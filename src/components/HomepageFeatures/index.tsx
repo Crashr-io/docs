@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Create',
-    Svg: require('@site/static/img/create2.svg').default,
+    Svg: require('@site/static/img/Create.svg').default,
     description: (
       <>
         Create your next trade with zero hurdles, and the lowest fees on-chain.
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Collect',
-    Svg: require('@site/static/img/collect1.svg').default,
+    Svg: require('@site/static/img/Collect.svg').default,
     description: (
       <>
         Bringing digital asset diversification to another level, collect all on-chain assets and showcase them to your community.
