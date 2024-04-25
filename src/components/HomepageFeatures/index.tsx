@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Connect',
-    Svg: require('@site/static/img/connect1.svg').default,
+    Svg: require('@site/static/img/Connect.svg').default,
     description: (
       <>
         Elevate the peer to peer economy by connecting with others and trade up to your dream digital asset.  
