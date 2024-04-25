@@ -17,7 +17,7 @@ const sidebars = {
       type: 'category',
       label: 'Protocol Overview',
       items: [
-        'Get Started/Introduction',
+        'Get Started/Readme',
         'Get Started/Roadmap',
         'Get Started/Whitepaper',
         
