@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Collect',
-    Svg: require('@site/static/img/collect.svg').default,
+    Svg: require('@site/static/img/Collect4.svg').default,
     description: (
       <>
         Bringing digital asset diversification to another level, collect all on-chain assets and showcase them to your community.
