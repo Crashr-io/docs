@@ -3,4 +3,5 @@ sidebar_position: 3
 ---
 # Whitepaper
 
-[Click to download Whitepaper](./static/img/Crashr-Whitepaper.pdf) 
+[Click to download Whitepaper](/img/Crashr-Whitepaper.pdf)
+
