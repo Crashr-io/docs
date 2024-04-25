@@ -42,7 +42,7 @@ const sidebars = {
 
       ],
     },
-    'Protocol-Incentive', 
+    'Protocol Incentive', 
   ],
 };
 
