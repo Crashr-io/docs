@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Collect',
-    Svg: require('@site/static/img/Collect.svg').default,
+    Svg: require('@site/static/img/collect1.svg').default,
     description: (
       <>
         Bringing digital asset diversification to another level, collect all on-chain assets and showcase them to your community.
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Connect',
-    Svg: require('@site/static/img/Connect1.svg').default,
+    Svg: require('@site/static/img/connect1.svg').default,
     description: (
       <>
         Elevate the peer to peer economy by connecting with others and trade up to your dream digital asset.  
