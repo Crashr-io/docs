@@ -6,9 +6,20 @@ The protocol token is distrbuted into 6 different categories with each sections 
 
 <table><thead><tr><th width="200" align="center">Allocation</th><th width="80" align="center">%</th><th width="176" align="center">Amount of Tokens</th><th width="121" align="center">Cliff </th><th align="center">Vesting</th></tr></thead><tbody><tr><td align="center">Protocol Rewards</td><td align="center">35%</td><td align="center">35,000,000</td><td align="center">7 Month</td><td align="center">48 Month</td></tr><tr><td align="center">Public</td><td align="center">32%</td><td align="center">32,000,000</td><td align="center">-</td><td align="center">-</td></tr><tr><td align="center">Marketing</td><td align="center">8%</td><td align="center">8,000,000</td><td align="center">6 Month</td><td align="center">24 Month</td></tr><tr><td align="center">Development</td><td align="center">10%</td><td align="center">10,000,000</td><td align="center">6 Month</td><td align="center">24 Month</td></tr><tr><td align="center">Investors</td><td align="center">10%</td><td align="center">10,000,000</td><td align="center">6 Month</td><td align="center">24 Month</td></tr><tr><td align="center">ISPO</td><td align="center">3%</td><td align="center">3,000,000</td><td align="center">-</td><td align="center">6 Month</td></tr><tr><td align="center">Miscellaneous</td><td align="center">2%</td><td align="center">2,000,000</td><td align="center">-</td><td align="center">4 Month</td></tr></tbody></table> 
 
+## Overall Emission Schedule
+
+To ensure a stable and healthy growth of the Crashr ecosystem, the emission of $CRASH tokens is carefully planned to follow a linear gradual release schedule.
+
+![Emission Schedule](/img/chart2.png)
+For further information regarding the amount of tokens released for each allocated section, please see below. 
+
 ## Protocol Rewards Vesting Schedule
 
 The protocol rewards are allocated towards the conversion of our rewards system. On a quarterly basis, starting in January 2025 and continuing until October 2028, 2.1875% will be released each quarter. By utilizing the protocol, we incentivize users to obtain $CRASH through a fair distribution method.
+
+:::tip
+For 48 months, 2.1875% will be released each quarter.&#x20;
+:::
 
 | Month      | Cumulative Tokens | Cumulative % |
 |------------|-------------------|--------------|
@@ -31,7 +42,11 @@ The protocol rewards are allocated towards the conversion of our rewards system.
 
 ## Marketing Vesting Schedule
 
-The marketing allocations vesting schedule inlcudes a 6 Month Cliff, with 2 Year Linear Vesting beginning on December 2024 and concluding November 2024. During the vesting duration, approximatley 0.333% is released each month.  	
+The marketing allocations vesting schedule inlcudes a 6 Month Cliff, with 2 Year Linear Vesting beginning on December 2024 and concluding November 2024. 
+
+:::tip
+During the vesting duration, approximatley 0.333% is released each month.&#x20;
+:::
 
 | Month      | Cumulative Tokens | Cumulative % |
 |------------|-------------------|--------------|
@@ -64,6 +79,10 @@ The marketing allocations vesting schedule inlcudes a 6 Month Cliff, with 2 Year
 
 The development vesting schedule includes a 6 Month Cliff, with 2 Year Linear Vesting beginning December 2024 till November 2025. During the vesting duration, approximatley 0.4167% is released each month.  	
 
+:::tip
+During the vesting duration, approximatley 0.4167% is released each month.&#x20;
+:::
+
 | Month      | Cumulative Tokens | Cumulative % |
 |------------|-------------------|--------------|
 | Dec, 2024  | 416,700           | 0.4167%      |
@@ -93,7 +112,11 @@ The development vesting schedule includes a 6 Month Cliff, with 2 Year Linear Ve
 
 ## Investors
 
-The investors vesting schedule is set at 3% Inital unlock at TGE with 6 Month Cliff, and 2 Year Linear Vesting. During the vesting duration, approximatley 0.2917% is released each month.  	
+The investors vesting schedule is set at 3% Inital unlock at TGE with 6 Month Cliff, and 2 Year Linear Vesting. During the vesting duration, approximatley 0.2917% is released each month.  
+
+:::tip
+During the vesting duration, approximatley 0.2917%  is released each month.&#x20;
+:::	
 
 | Month      | Cumulative Tokens | Cumulative % |
 |------------|-------------------|--------------|
@@ -127,6 +150,10 @@ The investors vesting schedule is set at 3% Inital unlock at TGE with 6 Month Cl
 
 The ISPO vesting schedule is set at 6 month linear Vesting. During the vesting duration, approximatley 0.5% is released for 6 month.  	
 
+:::tip
+During the vesting duration, 0.5% is released per month.&#x20;
+:::	
+
 | Month      | Cumulative Tokens | Cumulative % |
 |------------|-------------------|--------------|
 | Jun, 2024  | 500,000           | 0.500%       |
@@ -139,7 +166,11 @@ The ISPO vesting schedule is set at 6 month linear Vesting. During the vesting d
 
 ## Miscellaneous
 
-The Miscellaneous allocation vesting schedule is set at 4 month linear Vesting. During the vesting duration, approximatley 0.5% for the early testers of Crashr V.1.0 along with airdrops through giveaways ran on Discord and X. 
+The Miscellaneous allocation vesting schedule is set at 4 month linear Vesting. During the vesting duration, 0.5% is released per month for the early testers of Crashr V.1.0 along with airdrops through giveaways ran on Discord and X. 
+
+:::tip
+During the vesting duration, 0.5% is released per month.&#x20;
+:::	
 
 | Month      | Cumulative Tokens | Cumulative % |
 |------------|-------------------|--------------|
@@ -147,13 +178,6 @@ The Miscellaneous allocation vesting schedule is set at 4 month linear Vesting. 
 | Jul, 2024  | 1,000,000         | 1.0000%      |
 | Aug, 2024  | 1,500,000         | 1.5000%      |
 | Sep, 2024  | 2,000,000         | 2.0000%      |
-
-
-## Overall Emission Schedule
-
-To ensure a stable and healthy growth of the Crashr ecosystem, the emission of $CRASH tokens is carefully planned to follow a linear gradual release schedule.
-
-![Emission Schedule](/img/chart2.png)
 
 
 
