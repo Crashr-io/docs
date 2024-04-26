@@ -14,24 +14,34 @@ The protocol rewards are allocated towards the conversion of our rewards system.
 For 48 months, 2.1875% will be released each quarter.&#x20;
 :::
 
-| Month      | Cumulative Tokens | Cumulative % |
-|------------|-------------------|--------------|
-| Jan, 2025  | 2,187,500         | 2.1875%      |
-| Apr, 2025  | 4,375,000         | 4.3750%      |
-| Jul, 2025  | 6,562,500         | 6.5625%      |
-| Oct, 2025  | 8,750,000         | 8.7500%      |
-| Jan, 2026  | 10,937,500        | 10.9375%     |
-| Apr, 2026  | 13,125,000        | 13.1250%     |
-| Jul, 2026  | 15,312,500        | 15.3125%     |
-| Oct, 2026  | 17,500,000        | 17.5000%     |
-| Jan, 2027  | 19,687,500        | 19.6875%     |
-| Apr, 2027  | 21,875,000        | 21.8750%     |
-| Jul, 2027  | 24,062,500        | 24.0625%     |
-| Oct, 2027  | 26,250,000        | 26.2500%     |
-| Jan, 2028  | 28,437,500        | 28.4375%     |
-| Apr, 2028  | 30,625,000        | 30.6250%     |
-| Jul, 2028  | 32,812,500        | 32.8125%     |
-| Oct, 2028  | 35,000,000        | 35.0000%     |
+<table>
+  <thead>
+    <tr>
+      <th width="200" align="center">Month</th>
+      <th width="176" align="center">Cumulative Tokens</th>
+      <th align="center">Cumulative %</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td align="center">Jan, 2025</td><td align="center">2,187,500</td><td align="center">2.1875%</td></tr>
+    <tr><td align="center">Apr, 2025</td><td align="center">4,375,000</td><td align="center">4.3750%</td></tr>
+    <tr><td align="center">Jul, 2025</td><td align="center">6,562,500</td><td align="center">6.5625%</td></tr>
+    <tr><td align="center">Oct, 2025</td><td align="center">8,750,000</td><td align="center">8.7500%</td></tr>
+    <tr><td align="center">Jan, 2026</td><td align="center">10,937,500</td><td align="center">10.9375%</td></tr>
+    <tr><td align="center">Apr, 2026</td><td align="center">13,125,000</td><td align="center">13.1250%</td></tr>
+    <tr><td align="center">Jul, 2026</td><td align="center">15,312,500</td><td align="center">15.3125%</td></tr>
+    <tr><td align="center">Oct, 2026</td><td align="center">17,500,000</td><td align="center">17.5000%</td></tr>
+    <tr><td align="center">Jan, 2027</td><td align="center">19,687,500</td><td align="center">19.6875%</td></tr>
+    <tr><td align="center">Apr, 2027</td><td align="center">21,875,000</td><td align="center">21.8750%</td></tr>
+    <tr><td align="center">Jul, 2027</td><td align="center">24,062,500</td><td align="center">24.0625%</td></tr>
+    <tr><td align="center">Oct, 2027</td><td align="center">26,250,000</td><td align="center">26.2500%</td></tr>
+    <tr><td align="center">Jan, 2028</td><td align="center">28,437,500</td><td align="center">28.4375%</td></tr>
+    <tr><td align="center">Apr, 2028</td><td align="center">30,625,000</td><td align="center">30.6250%</td></tr>
+    <tr><td align="center">Jul, 2028</td><td align="center">32,812,500</td><td align="center">32.8125%</td></tr>
+    <tr><td align="center">Oct, 2028</td><td align="center">35,000,000</td><td align="center">35.0000%</td></tr>
+  </tbody>
+</table>
+
 
 ## Marketing Schedule
 
