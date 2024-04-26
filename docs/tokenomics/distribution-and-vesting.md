@@ -4,11 +4,11 @@
 
 The protocol token is distrbuted into 6 different categories with each sections designated with its own cliff and vesting schedule. 
 
-<table><thead><tr><th width="200" align="center">Allocation</th><th width="80" align="center">%</th><th width="176" align="center">Amount of Tokens</th><th width="121" align="center">Cliff </th><th align="center">Vesting</th></tr></thead><tbody><tr><td align="center">Protocol Rewards</td><td align="center">35%</td><td align="center">35,000,000</td><td align="center">3 Month</td><td align="center">60 Month</td></tr><tr><td align="center">Public</td><td align="center">32%</td><td align="center">32,000,000</td><td align="center">-</td><td align="center">-</td></tr><tr><td align="center">Marketing</td><td align="center">10%</td><td align="center">10,000,000</td><td align="center">6 Month</td><td align="center">36 Month</td></tr><tr><td align="center">Development</td><td align="center">10%</td><td align="center">10,000,000</td><td align="center">6 Month</td><td align="center">24 Month</td></tr><tr><td align="center">Private Investor</td><td align="center">10%</td><td align="center">10,000,000</td><td align="center">6 Month</td><td align="center">24 Month</td></tr><tr><td align="center">ISPO </td><td align="center">3%</td><td align="center">3,000,000</td><td align="center">3 Month</td><td align="center">4 Month</td></tr></tbody></table>
+<table><thead><tr><th width="200" align="center">Allocation</th><th width="80" align="center">%</th><th width="176" align="center">Amount of Tokens</th><th width="121" align="center">Cliff </th><th align="center">Vesting</th></tr></thead><tbody><tr><td align="center">Protocol Rewards</td><td align="center">35%</td><td align="center">35,000,000</td><td align="center">7 Month</td><td align="center">48 Month</td></tr><tr><td align="center">Public</td><td align="center">32%</td><td align="center">32,000,000</td><td align="center">-</td><td align="center">-</td></tr><tr><td align="center">Marketing</td><td align="center">8%</td><td align="center">8,000,000</td><td align="center">6 Month</td><td align="center">24 Month</td></tr><tr><td align="center">Development</td><td align="center">10%</td><td align="center">10,000,000</td><td align="center">6 Month</td><td align="center">24 Month</td></tr><tr><td align="center">Private Investor</td><td align="center">10%</td><td align="center">10,000,000</td><td align="center">6 Month</td><td align="center">24 Month</td></tr><tr><td align="center">ISPO</td><td align="center">3%</td><td align="center">3,000,000</td><td align="center">-</td><td align="center">6 Month</td></tr><tr><td align="center">Miscellaneous</td><td align="center">2%</td><td align="center">2,000,000</td><td align="center">-</td><td align="center">4 Month</td></tr></tbody></table> 
 
 ## Protocol Rewards Vesting Schedule
 
-The protocol rewards are allocated towards the conversion of our rewards system. On a quarterly basis, starting in January 2025 and continuing until October 2028, approximately 2.1875% will be released each quarter. By utilizing the protocol, we incentivize users to obtain $CRASH through a fair distribution method.
+The protocol rewards are allocated towards the conversion of our rewards system. On a quarterly basis, starting in January 2025 and continuing until October 2028, 2.1875% will be released each quarter. By utilizing the protocol, we incentivize users to obtain $CRASH through a fair distribution method.
 
 | Month      | Cumulative Tokens | Cumulative % |
 |------------|-------------------|--------------|
@@ -28,6 +28,9 @@ The protocol rewards are allocated towards the conversion of our rewards system.
 | Apr, 2028  | 30,625,000        | 30.6250%     |
 | Jul, 2028  | 32,812,500        | 32.8125%     |
 | Oct, 2028  | 35,000,000        | 35.0000%     |
+
+## Protocol Rewards Vesting Schedule
+
 
 
 ## Emission Schedule
