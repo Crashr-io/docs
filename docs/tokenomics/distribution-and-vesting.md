@@ -29,11 +29,109 @@ The protocol rewards are allocated towards the conversion of our rewards system.
 | Jul, 2028  | 32,812,500        | 32.8125%     |
 | Oct, 2028  | 35,000,000        | 35.0000%     |
 
-## Protocol Rewards Vesting Schedule
+## Marketing Vesting Schedule
+
+The marketing allocations vesting schedule inlcudes a 6 Month Cliff, with 2 Year Linear Vesting beginning on December 2024 and concluding November 2024. During the vesting duration, approximatley 0.333% is released each month.  	
+
+| Month      | Cumulative Tokens | Cumulative % |
+|------------|-------------------|--------------|
+| Dec, 2024  | 330,000           | 0.33%        |
+| Jan, 2024  | 663,000           | 0.66%        |
+| Feb, 2024  | 996,000           | 1.00%        |
+| Mar, 2024  | 1,329,000         | 1.33%        |
+| Apr, 2024  | 1,662,000         | 1.66%        |
+| May, 2024  | 1,995,000         | 2.00%        |
+| Jun, 2024  | 2,328,000         | 2.33%        |
+| Jul, 2024  | 2,661,000         | 2.66%        |
+| Aug, 2024  | 2,994,000         | 2.99%        |
+| Sep, 2024  | 3,327,000         | 3.33%        |
+| Oct, 2024  | 3,660,000         | 3.66%        |
+| Nov, 2024  | 3,993,000         | 3.99%        |
+| Dec, 2024  | 4,326,000         | 4.33%        |
+| Jan, 2025  | 4,659,000         | 4.66%        |
+| Feb, 2025  | 4,992,000         | 4.99%        |
+| Mar, 2025  | 5,325,000         | 5.33%        |
+| Apr, 2025  | 5,658,000         | 5.66%        |
+| May, 2025  | 5,991,000         | 5.99%        |
+| Jun, 2025  | 6,324,000         | 6.32%        |
+| Jul, 2025  | 6,657,000         | 6.66%        |
+| Aug, 2025  | 6,990,000         | 6.99%        |
+| Sep, 2025  | 7,323,000         | 7.32%        |
+| Oct, 2025  | 7,656,000         | 7.66%        |
+| Nov, 2025  | 8,000,000         | 8.00%        |
+
+## Development Vesting Schedule
+
+The development vesting schedule includes a 6 Month Cliff, with 2 Year Linear Vesting beginning December 2024 till November 2025. During the vesting duration, approximatley 0.4167% is released each month.  	
+
+| Month      | Cumulative Tokens | Cumulative % |
+|------------|-------------------|--------------|
+| Dec, 2024  | 416,700           | 0.4167%      |
+| Jan, 2024  | 833,400           | 0.8334%      |
+| Feb, 2024  | 1,250,100         | 1.2501%      |
+| Mar, 2024  | 1,666,800         | 1.6668%      |
+| Apr, 2024  | 2,083,500         | 2.0835%      |
+| May, 2024  | 2,500,200         | 2.5002%      |
+| Jun, 2024  | 2,916,900         | 2.9169%      |
+| Jul, 2024  | 3,333,600         | 3.3336%      |
+| Aug, 2024  | 3,750,300         | 3.7503%      |
+| Sep, 2024  | 4,167,000         | 4.1670%      |
+| Oct, 2024  | 4,583,700         | 4.5837%      |
+| Nov, 2024  | 5,000,400         | 5.0004%      |
+| Dec, 2024  | 5,417,100         | 5.4171%      |
+| Jan, 2025  | 5,833,800         | 5.8338%      |
+| Feb, 2025  | 6,250,500         | 6.2505%      |
+| Mar, 2025  | 6,667,200         | 6.6672%      |
+| Apr, 2025  | 7,083,900         | 7.0839%      |
+| May, 2025  | 7,500,600         | 7.5006%      |
+| Jun, 2025  | 7,917,300         | 7.9173%      |
+| Jul, 2025  | 8,334,000         | 8.3340%      |
+| Aug, 2025  | 8,750,700         | 8.7507%      |
+| Sep, 2025  | 9,167,400         | 9.1674%      |
+| Oct, 2025  | 9,584,100         | 9.5841%      |
+| Nov, 2025  | 10,000,000        | 10.0000%     |
+
+## Investors
+
+The investors vesting schedule is set at 3% Inital unlock at TGE with 6 Month Cliff, and 2 Year Linear Vesting. During the vesting duration, approximatley 0.2917% is released each month.  	
+
+| Month      | Cumulative Tokens | Cumulative % |
+|------------|-------------------|--------------|
+| Jun, 2024  | 3,000,000         | 3.000%       |
+| Dec, 2024  | 3,291,666         | 3.2917%      |
+| Jan, 2024  | 3,583,332         | 3.5833%      |
+| Feb, 2024  | 3,874,998         | 3.8750%      |
+| Mar, 2024  | 4,166,664         | 4.1667%      |
+| Apr, 2024  | 4,458,330         | 4.4583%      |
+| May, 2024  | 4,749,996         | 4.7500%      |
+| Jun, 2024  | 5,041,662         | 5.0417%      |
+| Jul, 2024  | 5,333,328         | 5.3333%      |
+| Aug, 2024  | 5,624,994         | 5.6250%      |
+| Sep, 2024  | 5,916,660         | 5.9167%      |
+| Oct, 2024  | 6,208,326         | 6.2083%      |
+| Nov, 2024  | 6,499,992         | 6.5000%      |
+| Dec, 2024  | 6,791,658         | 6.7917%      |
+| Jan, 2025  | 7,083,324         | 7.0833%      |
+| Feb, 2025  | 7,374,990         | 7.3750%      |
+| Mar, 2025  | 7,666,656         | 7.6667%      |
+| Apr, 2025  | 7,958,322         | 7.9583%      |
+| May, 2025  | 8,249,988         | 8.2500%      |
+| Jun, 2025  | 8,541,654         | 8.5417%      |
+| Jul, 2025  | 8,833,320         | 8.8333%      |
+| Aug, 2025  | 9,124,986         | 9.1250%      |
+| Sep, 2025  | 9,416,652         | 9.4167%      |
+| Oct, 2025  | 9,708,318         | 9.7083%      |
+| Nov, 2025  | 10,000,000        | 10.0000%     |
+
+## ISPO
 
 
 
-## Emission Schedule
+## Miscellaneous
+
+
+
+## Overall Emission Schedule
 
 To ensure a stable and healthy growth of the Crashr ecosystem, the emission of $CRASH tokens is carefully planned to follow a linear gradual release schedule.
 
