@@ -8,30 +8,19 @@ The protocol token is distrbuted into 7 different categories with each sections 
 
 ## Protocol Rewards Schedule
 
-The protocol rewards are allocated towards the community. To On a quarterly basis, starting in January 2025 and continuing until October 2028, 2.1875% will be released each quarter. By utilizing the protocol, we incentivize users to obtain $CRASH through a fair distribution method.
+The protocol rewards are allocated towards the community. Vesting starts with a 7-month cliff. After the cliff, 0.5% of the tokens vest initially, followed by 0.268% each month. No more than 3.4480% of the tokens will vest in any one year. By utilizing the protocol, we incentivize users to obtain $CRASH through a fair distribution method.
 
 :::tip
-For 48 months, 2.1875% will be released each quarter.&#x20;
+For 60 months, 0.268% will be released each month.&#x20;
 :::
 
-| Month      | Cumulative Tokens | Cumulative % |
+| Year       | Cumulative Tokens | Cumulative % |
 |------------|-------------------|--------------|
-| Jan, 2025  | 2,187,500         | 2.1875%      |
-| Apr, 2025  | 4,375,000         | 4.3750%      |
-| Jul, 2025  | 6,562,500         | 6.5625%      |
-| Oct, 2025  | 8,750,000         | 8.7500%      |
-| Jan, 2026  | 10,937,500        | 10.9375%     |
-| Apr, 2026  | 13,125,000        | 13.1250%     |
-| Jul, 2026  | 15,312,500        | 15.3125%     |
-| Oct, 2026  | 17,500,000        | 17.5000%     |
-| Jan, 2027  | 19,687,500        | 19.6875%     |
-| Apr, 2027  | 21,875,000        | 21.8750%     |
-| Jul, 2027  | 24,062,500        | 24.0625%     |
-| Oct, 2027  | 26,250,000        | 26.2500%     |
-| Jan, 2028  | 28,437,500        | 28.4375%     |
-| Apr, 2028  | 30,625,000        | 30.6250%     |
-| Jul, 2028  | 32,812,500        | 32.8125%     |
-| Oct, 2028  | 35,000,000        | 35.0000%     |
+| Year 1     | 2,187,500         | 3.4480%      |
+| Year 2     | 6,664,000         | 6.6640%      |
+| Year 3     | 9,880,000         | 9.8800%      |
+| Year 4     | 13,096,000        | 13.0960%     |
+| Year 5     | 16,312,000        | 16.3120%     |
 
 
 ## Marketing Schedule
