@@ -1,7 +1,3 @@
- ---
-description: About Crashr
----
-
 # Introduction
 
 ![Trade](/img/trade.png)
