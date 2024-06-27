@@ -12,7 +12,8 @@ Crashr is a decentralized trading platform built on the Cardano blockchain, desi
 ## **Unique Offerings**
 
 * **Trading Capabilities**: Crashr supports trading various digital assets in a single transaction. This is all possible via a trade dialogue, where users can trade fungible tokens, non-fungible tokens (NFTs), and ADA, allowing a diversified trading experience beyond the conventional ADA --> NFT exchange model.
-
+<p alight="center">
+ 
 ![Dialogue](/img/dialogue.png)
 
 * **Modularity**: The trading dialogue used for diverse transactions is adaptable and interoperable, allowing it to be integrated within various projects. This will enable Crashr to support multiple use cases, enhance peer to peer economies, and adapt to evolving asset trends such as RWAs, dNFTs, etc.
