@@ -4,6 +4,9 @@
 
 The total supply of the protocol token $CRASH is 100,000,000. The token is distributed into six main categories, each detailed throughout this page along with its subsections. Each category has its own designated cliff and vesting schedule to benefit the token economy.
 
+![Distribution](/img/Distribution.png)
+
+
 - **Protocol Rewards: 35.00%**  
   - Initial unlock of 5% to the DAO Treasury for the Bonus Rewards Reserve, with a 5-year vesting period.
 - **Public: 32.00%**  
