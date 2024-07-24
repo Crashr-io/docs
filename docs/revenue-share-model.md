@@ -10,22 +10,30 @@ description: >-
 
 ## Revenue Share Model
 
-To incentivize user engagement and trading activity, our platform implements a streamlined revenue-sharing model, distributing generated income across three fundamental components of the protocol. The treasury, staking, and rewards pool. &#x20;
+Our platform implements a streamlined revenue-sharing model to incentivize user engagement and promote trading activity. This revenue split will consist of the three categories below.
 
 ### Treasury
 
-The treasury supports the platform's development, maintenance, and expansion. It will also be staked to the Crashr Stake Pool to aid in decentralization and enhance the network. To maintain heightened security and trust, the treasury's funds are secured in a multi-signature wallet.
+The treasury supports the platform's development, maintenance, and expansion. When funds are not in use, the collected fees are staked to the Crashr Stake Pool. The treasury's funds are secured in a multi-signature wallet to maintain security and trust.
 
 **Allocation**: **60%** of all collected fees.
 
 ### Staking
 
-Staking rewards play a crucial role in promoting both short and long-term engagement for users who hold our protocol token $CRASH. By participating in staking, users not only earn rewards but also support the token economy and align with the long-term vision of the platform. Upon the release of the staking program, rewards will be determined based on the [amount and duration](docs/tokenomics/usdcrash-staking.md) of $CRASH tokens staked. These rewards will be distributed in the form of ADA, providing users with greater accessibility and choice. With ADA rewards, users have the flexibility to exchange ADA for more $CRASH tokens or trade for other assets.
+Our staking benefit is in place for long-term $CRASH token holders. By participating in staking, users earn rewards while supporting the token economy and the platform's long-term vision.
+Upon the release of the staking program, rewards will be determined based on the amount and duration of $CRASH tokens staked. 
+
+These rewards will be distributed in the form of ADA, allowing users to hold ADA and diversify their portfolio to their liking. In this way, users can exchange ADA for more $CRASH tokens or trade for other assets on the platform.
+(Mechanics coming soon)
 
 **Allocation**: **20%** of all collected fees.
 
 ### Rewards Pool
 
-The rewards pool, also can be remembered as the "Pool of ADA," is designed to reward users who trade on Crashr. This initiative aims to boost trading volume and activity. The rewards pool is distributed to users who create and complete trades, incentivizing trading. Initially, the rewards pool will be funded by the treasury. Further details will be explained in mid-Q3 on the [protocol incentive](docs/Protocol%20Incentive.md) page.
+Our rewards pool will consist of ADA and is strictly in place to reward users who utilize our platform and execute trades. **This is entirely separate from the staking pool.
+
+All transactions within the beta are being recorded in our internal leaderboard for the beta period. As you engage in trades, we calculate the sum of all transactions and distribute the respective ADA rewards to the user. (Mechanics coming soon)
+
+Further details will be released in mid-Q3, with in-depth information on the [protocol incentive](docs/Protocol%20Incentive.md) page.
 
 **Allocation**: **20%** of all collected fees.
