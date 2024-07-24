@@ -4,6 +4,8 @@ description: Staking of $CRASH
 
 # $CRASH Staking
 
+![Staking](/img/Staking.png)
+
 ## Staking Information
 
 For individuals participating in our $CRASH token ecosystem, holding the token allows you to earn a portion of the revenue generated from the platform's trading fees. Staking your $CRASH tokens is essential to earning these rewards. The share of revenue each participant receives is influenced by three key factors:
