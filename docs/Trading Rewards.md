@@ -1,28 +1,29 @@
----
-description: Point System of Crashr
----
-
-# Protocol Incentive
+# Trading Rewards
 
 ## **Rewards**
 
-The protocol rewards are incentivized through a "points system" in which points are awarded to both the buyer and seller of a transaction, equivalent in value to the ADA involved. For example: If your transaction is worth 100 ADA, you and the other party receive 100 Points that are linked to the stake address.
+Trading rewards are incentives that users receive when they create or complete a trade on our platform. To earn these rewards, the volume of the trade and the time frame during which the trade took place are recorded. Further details on the specific mechanics of these rewards will be released soon. All transactions that occur from the time the mainnet was launched are recorded, and users will be rewarded accordingly.
 
 ![Points](/img/points.png)
 
 ## Rewards System Dynamics
 
-Instead of directly awarding $CRASH tokens for every transaction, Crashr introduces a points system in order to incentive trading activity. This approach with the points system is maintained through our offchain infrastructure and developed to prevent the rapid dispersion of tokens. Each quarter, the points will be converted into $CRASH tokens which are rewarded from the protocol rewards token allocation.&#x20;
+Coming this Q3!
 
-Ecosystem benefits:
+## Ecosystem Benefits
 
-* **Mitigating Volatility:** By awarding points for transactions instead of tokens, we minimize the risk of token over saturation. 
-* **Flexible Rewards:** Users accumulate points through their activity on Crashr which are than converted to $CRASH tokens.
+* **Mitigating Volatility:** By utilizing ADA and other tokens collected from our platform fees as reward currencies, we can prevent potential inflation of our protocol token, $CRASH. table investment environment.
 
-## Current Points v1.0
+* **Flexible Rewards:** Users accumulate ADA through their activity on Crashr, which can be converted into $CRASH tokens at the user's discretion. This approach provides flexibility for users, giving them the opportunity to engage with the rewards in a manner that best suits their needs without directly impacting the circulating supply of $CRASH. 
 
-With v1.0 of Crashr, points were awarded to users for staking our NFT collection and to early testers of Crashr v1.0. Upon the Token Generation Event (TGE), these users will receive an airdrop of $CRASH Tokens, determined by the number of points they have at that given time. With the introduction of the new points dynamic, staking will be phased out, making trading activity the sole way to earn points on our platform. Until this new system is in place, users can gain points by both staking and trading on v1.0.
+* **Increased Liquidity:** Using ADA and other tokens for rewards helps increase the liquidity of $CRASH. Since rewards are not distributed directly in $CRASH, the supply remains controlled, leading to more stable trading volumes and a healthier market. 
+
+* **Diversified Reward System:** By offering rewards in ADA and other tokens, we provide a diversified reward system that can attract a broader range of users. This diversification includes well-known cryptocurrencies and potentially other tokens such as $SNEK, $NIKE, or $CLAY. 
+
+## Previously Collected Points v1.0
+
+With v1.0 of Crashr, the use of points were awarded to users for staking our NFT collection and to early testers of Crashr v1.0. Upon the Token Generation Event (TGE) and its distribution schedule, these users will receive an airdrop of $CRASH Tokens, determined by the number of points they have at that given time (till TGE). With the introduction of the new points dynamic, staking will be phased out, making trading activity and staking along with $CRASH on our staking page the sole way to earn rewards on our platform. 
 
 ## Conclusion
 
-Our protocol incetive with the points system is our commitement to creating a sustainable, user-centric trading platform. By innovating beyond traditional token rewards, we offer a balanced approach that rewards users while maintaining the integrity and value of the ecosystem.&#x20;
+Our protocol incentive with the trading rewards system is our commitement to creating a sustainable, user-centric trading platform. By innovating, we offer a balanced approach that rewards users while maintaining the integrity and value of the ecosystem.&#x20;
