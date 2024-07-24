@@ -4,7 +4,7 @@
 
 Trading rewards are incentives that users receive when they create or complete a trade on our platform. To earn these rewards, the volume of the trade and the time frame during which the trade took place are recorded. Further details on the specific mechanics of these rewards will be released soon. All transactions that occur from the time the mainnet was launched are recorded, and users will be rewarded accordingly.
 
-![Points](/img/points.png)
+![Trading Rewards](/img/TradingRewards.png)
 
 ## Rewards System Dynamics
 
