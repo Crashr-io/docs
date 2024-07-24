@@ -10,11 +10,11 @@ description: >-
 
 ## Revenue Share Model
 
-To incentivize user engagement and trading activity, our platform implements a streamlined revenue-sharing model, distributing generated income across three fundamental components of the protocol. The treasury, staking, and buyback. &#x20;
+To incentivize user engagement and trading activity, our platform implements a streamlined revenue-sharing model, distributing generated income across three fundamental components of the protocol. The treasury, staking, and rewards pool. &#x20;
 
 ### Treasury
 
-The treasury supports the platform's development, maintenance, and expansion. It's also staked to the Crashr Stake Pool to aid in decentralization and enhance the network. To maintain heightened security and trust, the treasury's funds are secured in a multi-signature wallet.
+The treasury supports the platform's development, maintenance, and expansion. It will also be staked to the Crashr Stake Pool to aid in decentralization and enhance the network. To maintain heightened security and trust, the treasury's funds are secured in a multi-signature wallet.
 
 **Allocation**: **60%** of all collected fees.
 
