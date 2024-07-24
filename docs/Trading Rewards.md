@@ -8,7 +8,7 @@ Trading rewards are incentives that users receive when they create or complete a
 
 ## Rewards System Dynamics
 
-Coming this Q3!
+Coming this Q3! Start trading and see your transactions displayed on the leaderboard upon release. Earn rewards for your activity and compete with others.
 
 ## Ecosystem Benefits
 
