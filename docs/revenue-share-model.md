@@ -26,6 +26,6 @@ Staking rewards play a crucial role in promoting both short and long-term engage
 
 ### Rewards Pool
 
-The rewards pool, also can be remembered as the "Pool of ADA," is designed to reward users who trade on Crashr. This initiative aims to boost trading volume and activity. The rewards pool is distributed to users who create and complete trades, incentivizing trading. Initially, the rewards pool will be funded by the treasury. Further details will be explained in mid-Q3 on the [Protocol Incentive](docs/Protocol_Incentive.md) page.
+The rewards pool, also can be remembered as the "Pool of ADA," is designed to reward users who trade on Crashr. This initiative aims to boost trading volume and activity. The rewards pool is distributed to users who create and complete trades, incentivizing trading. Initially, the rewards pool will be funded by the treasury. Further details will be explained in mid-Q3 on the [Protocol Incentive](docs/Protocol%20Incentive.md) page.
 
 **Allocation**: **20%** of all collected fees.
