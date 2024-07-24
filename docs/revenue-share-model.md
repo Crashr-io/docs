@@ -34,6 +34,6 @@ Our rewards pool will consist of ADA and is strictly in place to reward users wh
 
 All transactions within the beta are being recorded in our internal leaderboard for the beta period. As you engage in trades, we calculate the sum of all transactions and distribute the respective ADA rewards to the user. (Mechanics coming soon)
 
-Further details will be released in mid-Q3, with in-depth information on the [protocol incentive](docs/Protocol%20Incentive.md) page.
+Further details will be released in mid-Q3, with in-depth information on the [trading rewards](docs/Trading%20Rewards.md) page.
 
 **Allocation**: **20%** of all collected fees.
