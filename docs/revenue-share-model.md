@@ -20,12 +20,12 @@ The treasury supports the platform's development, maintenance, and expansion. It
 
 ### Staking
 
-Staking rewards play a crucial role in promoting long-term engagement and stability within the ecosystem. Rewards are determined based on the [amount and duration](docs/tokenomics/usdcrash-staking.md) of $CRASH tokens staked, with the total fees allocated for staking distributed to participants in $CRASH token.
+Staking rewards play a crucial role in promoting both short and long-term engagement for users who hold our protocol token $CRASH. By participating in staking, users not only earn rewards but also support the token economy and align with the long-term vision of the platform. Upon the release of the staking program, rewards will be determined based on the [amount and duration](docs/tokenomics/usdcrash-staking.md) of $CRASH tokens staked. These rewards will be distributed in the form of ADA, providing users with greater accessibility and choice. With ADA rewards, users have the flexibility to exchange ADA for more $CRASH tokens or trade for other assets.
 
 **Allocation**: **20%** of all collected fees.
 
-### Buyback
+### Rewards Pool
 
-Aimed at stabilizing and boosting the $CRASH token's value, the buyback is conducted quarterly, it uses a set portion of the fees to repurchase $CRASH tokens. These tokens are then reintegrated into the treasury, earmarked for release via DAO approval or towards the protocol rewards.
+The rewards pool, also can be remembered as the "Pool of ADA," is designed to reward users who trade on Crashr. This initiative aims to boost trading volume and activity. The rewards pool is distributed to users who create and complete trades, incentivizing trading. Initially, the rewards pool will be funded by the treasury. Further details will be explained in mid-Q3 on the [Protocol Incentive](docs/Protocol-Incentive.md) page.
 
 **Allocation**: **20%** of all collected fees.
