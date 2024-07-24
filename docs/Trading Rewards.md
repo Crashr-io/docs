@@ -1,6 +1,6 @@
 # Trading Rewards
 
-## **Rewards**
+## **Prerequisite**
 
 Trading rewards are incentives that users receive when they create or complete a trade on our platform. To earn these rewards, the volume of the trade and the time frame during which the trade took place are recorded. Further details on the specific mechanics of these rewards will be released soon. All transactions that occur from the time the mainnet was launched are recorded, and users will be rewarded accordingly.
 
@@ -8,9 +8,9 @@ Trading rewards are incentives that users receive when they create or complete a
 
 ## Rewards System Dynamics
 
-Coming this Q3! Start trading and see your transactions displayed on the leaderboard upon release. Earn rewards for your activity and compete with others.
+**Coming this Q3!** Start trading and see your transactions displayed on the leaderboard upon release. Earn rewards for your activity and compete with others.
 
-## Ecosystem Benefits
+## Trading Rewards Benefits
 
 * **Mitigating Volatility:** By utilizing ADA and other tokens collected from our platform fees as reward currencies, we can prevent potential inflation of our protocol token, $CRASH. table investment environment.
 
