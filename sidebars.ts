@@ -39,10 +39,11 @@ const sidebars = {
       items: [
         'revenue-share-model', 
         'tokenomics/usdcrash-staking',
+        'Trading Rewards', 
 
       ],
     },
-    'Trading Rewards', 
+
   ],
 };
 
