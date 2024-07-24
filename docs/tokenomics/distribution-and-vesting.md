@@ -1,6 +1,6 @@
 # Distribution & Vesting
 
-## Prerequisite of Distribution
+## Prerequisite 
 
 Our goal is to create an inclusive and decentralized token that reflects our commitment to broad-based participation. To do so, we have allocated a significant portion of the tokens to the public sale. This allows diverse participants to contribute to the token without the risk of high volatility due to the increased supply, regardless of market demand. Ultimately, our tokenomics strategy promotes a balanced and fair token launch, benefiting all participants. 
 
