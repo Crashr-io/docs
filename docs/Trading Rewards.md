@@ -2,7 +2,7 @@
 
 ![Trading Rewards](/img/TradingRewards.png)
 
-## **Prerequisite**
+## **Summary**
 
 Trading rewards are given to users as incentives for creating or completing trades on our platform. These rewards are earned based on the trade volume and time frame in which the trade occurred and are tracked on our internal leaderboard. More details about the specific mechanics of these rewards will be provided in the near future. Since the mainnet beta launch, all transactions have been recorded, and users will continue to receive rewards based on their activity.
 
