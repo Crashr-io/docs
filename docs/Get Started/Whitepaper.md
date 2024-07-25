@@ -4,5 +4,6 @@ sidebar_position: 3
 # Whitepaper
 
 
-
-<a href="/img/Crashr-Whitepaper.pdf" download="Crashr-Whitepaper.pdf">Click to download Whitepaper</a>
+<a href="/img/Crashr-Whitepaper.pdf" download="Crashr-Whitepaper.pdf">
+  <img src="/img/Specifications.png" alt="Specifications" />
+</a>
