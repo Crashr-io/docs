@@ -20,6 +20,8 @@ Crashr is not just another digital asset trading platform; it's a decentralized 
 
 ## Utility of $CRASH Tokens
 
+![token utility](/img/TokenUtility.png)
+
 Holding $CRASH isn't just about participating in a vibrant trading environment; it's about unlocking a realm of privileges that enhance your trading journey and influence within the ecosystem.
 
 **1) Revenue Sharing:** $CRASH holders receive a share of the protocol's revenue, directly benefiting from the protocol.&#x20;
