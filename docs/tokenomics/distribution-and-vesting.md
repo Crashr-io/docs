@@ -39,7 +39,7 @@ Advisors contributing early feedback and guidance before platform updates are al
 - Lock & Vesting: 12-month lock with 36-month vesting
 
 **Airdrop: 1.50%**
-Airdrops, accounting for 1.50% of the tokens, are reserved for Bomber’s holders who hold a minimum of 3, Coinecta Stakers, and all partnered projects (Partners to be announced). Users applicable to the airdrop, will be receiving a portion of the airdrop which is weighted on the contribution size during the public sale.
+Airdrops, accounting for 1.50% of the tokens, are reserved for Bomber’s holders who hold a minimum of 3, Coinecta Stakers who staked 5k cnct minimum, and all partnered projects (Partners to be announced). Users applicable to the airdrop, will be receiving a portion of the airdrop which is weighted on the contribution size during the public sale.
 - Lock & Vesting: 3-month lock
 
 **Points Exchange: 1.00%**
