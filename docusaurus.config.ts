@@ -72,12 +72,12 @@ const config: Config = {
         },
         {
           href: 'https://crashr.io/',
-          label: 'dApp Platform',
+          label: 'Website',
           position: 'left',
         },
         {
-          href: 'https://beta.crashr.io/',
-          label: 'v.1.0',
+          href: 'https://coinecta.fi/projects/crashr',
+          label: 'Token Sale',
           position: 'right',
         },
         {
