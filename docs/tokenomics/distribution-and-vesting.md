@@ -6,7 +6,7 @@ Our goal is to create an inclusive and decentralized token that reflects our com
 
 ## Official Token Distribution & Vesting 
 
-![Distribute](/img/Distribute.png)
+![Distribute](/img/Distribution.png)
 
 The total supply of the protocol token $CRASH is 100,000,000. To ensure transparency with our tokenomics, we have specifically organized the distribution of the tokens into nine categories, along with their respective locks plus vesting schedules.
 
