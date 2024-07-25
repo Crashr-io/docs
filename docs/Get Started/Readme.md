@@ -2,7 +2,7 @@
 
 ![Trade](/img/trade.png)
 
-Crashr is a decentralized trading platform built on the Cardano blockchain, designed to redefine the way digital assets are traded. By supporting the exchange of fungible tokens, non-fungible tokens (NFTs), and ADA within a single transaction, Crashr pushes the boundaries of traditional trading capabilities. Leveraging the secure infrastructure of the JPG Store's v3 smart contract, Crashr provides a user-friendly, efficient, and secure trading environment. Through the innovative features and complex off-chain architecture, Crashr aims to set a new standard for digital asset trading across blockchain networks, and prepare for mass adoption.
+Crashr is a decentralized trading platform designed to redefine the way digital assets are traded. By supporting the exchange of fungible tokens (FTs), non-fungible tokens (NFTs), and ADA within a single transaction, Crashr pushes the boundaries of traditional trading capabilities. Through the innovative features and complex off-chain architecture, Crashr aims to set a new standard for digital asset trading across blockchain networks, and prepare for mass adoption.
 &#x20;
 
 ## **Unique Offerings**
