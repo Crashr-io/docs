@@ -8,6 +8,7 @@ description: The Powerhouse.
 **Total Supply: 100,000,000 CRASH**
 :::
 
+![token](/img/token.png)
 
 
 :::tip
