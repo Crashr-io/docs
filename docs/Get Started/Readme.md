@@ -16,8 +16,7 @@ Crashr is a decentralized trading platform designed to redefine the way digital 
 * **In-House Data Infrastructure**: To enhance the trading experience, Crashr utilizes an off-chain architecture that includes real-time data processing and a user-friendly API. This technology stack ensures that the platform remains fast, reliable, and scalable while diminishing any third party reliance.
  ![Infra](/img/Infra.png)
 * **Pure Decentralization**: At its heart, Crashr aims to curate to communities among crypto enthusiasts by prioritizing user engagement and providing a space for like-minded individuals to trade and connect. This will be done via a DAO proposal when the $CRASH token launches.
-* **Security**: The Smart Contracts utilized are derived from the secure, reliable, and user-friendly foundation of the JPG Store's v3 smart contract for asset trading. Ensuring that transactions on the platform are efficient and safe, providing users with peace of mind when trading.
-
+* **Security**: The Smart Contracts utilized are audited by Sundae Labs to ensure a secure, reliable, and user-friendly smart contract, for asset trading. Ensuring that transactions on the platform are efficient and safe, providing users with peace of mind when trading.
 
 Crashr is committed to ongoing development, with plans to introduce new features such as cross-chain trading, real-world asset tokenization, and multiple platform features to enhance user experience.
 
