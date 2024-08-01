@@ -99,7 +99,7 @@ const config: Config = {
             },
             {
               label: 'Contact Us',
-              href: '/docs/Contact.md',
+              href: '/docs/Contact',
             },
           ],
         },
