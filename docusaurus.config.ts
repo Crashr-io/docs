@@ -97,6 +97,10 @@ const config: Config = {
             label: 'Overview',
             to: '/docs/Get%20Started',
             },
+            {
+              label: 'Contact Us',
+              href: '/docs/Contact.md',
+            },
           ],
         },
         {
