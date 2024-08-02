@@ -1,4 +1,4 @@
-# Development Update
+# Development Updates
 
 ![Updates](/img/Updates.png)
 
