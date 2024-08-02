@@ -5,7 +5,7 @@
 ## Update v.0.1.0
 
 ### Features
-- 🌐  **WEB** 
+- **WEB** 
   - Display last traded price, highest price, lowest price, and floor price on the token details page (#457)
   - Add auto-fill functionality for maximum token amount when balance is clicked in the trade dialog (#433)
   - Implement clickable navigation for listing and collection containers on the home page (#444)
@@ -23,7 +23,7 @@
   - Integrate marketplace stats endpoint on the home page (#458)
 
 ### Fixes
-- 🌐  **WEB**  
+- **WEB**  
   - Update Open Graph token name to use metadata name on the token details page (#462)
   - Adjust spacing between content and header/footer on the explore page (#451)
   - Change number of decimal digits on wallet balance from 6 to 2 (#441)
@@ -85,13 +85,13 @@
 ## Update v.0.1.2
 
 ### Features
-- 🌐  **WEB** 
+- **WEB** 
   - Added auto-reconnect feature when the page cannot reconnect to the server (#555)
   - Added privacy policy page (#598)
   - Created terms and conditions page (#599)
   - Added a placeholder image when collection image is not found on top collections’ home page (#626)
 
-- 🔃 **SYNC** 
+- **SYNC** 
   - Added sundae swap datums for token price reducer (#631)
 
 ### Fixes
