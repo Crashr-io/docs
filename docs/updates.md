@@ -1,5 +1,7 @@
 # Development Update
 
+![Updates](/img/Updates.png)
+
 ## Update v.0.1.0
 
 ### Features
