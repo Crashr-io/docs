@@ -20,7 +20,7 @@ const sidebars = {
         'Get Started/Readme',
         'Get Started/Roadmap',
         'Get Started/Whitepaper',
-        
+        'updates', 
       ],
     },
     {
