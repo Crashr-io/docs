@@ -37,6 +37,7 @@ const sidebars = {
       type: 'category',
       label: 'Protocol Revenue Share Model',
       items: [
+        'Beta Incentive Rewards',
         'revenue-share-model', 
         'tokenomics/usdcrash-staking',
         'Trading Rewards', 
