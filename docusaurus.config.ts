@@ -76,11 +76,6 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://coinecta.fi/projects/crashr',
-          label: 'Token Sale',
-          position: 'right',
-        },
-        {
           href: 'https://linktr.ee/crashr',
           label: 'Socials',
           position: 'right',
