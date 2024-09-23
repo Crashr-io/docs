@@ -29,4 +29,6 @@ Select your choice:
 After completing the form and submitting it, you will receive a pop-up with a verification code. Please use your main Twitter account to send us this code via a message on Twitter to complete the verification process.
 ![Verifycode](/img/Verifycode.png)
 
+You have successfully verified your project and can begin trading after approval from an admin.
+
 
