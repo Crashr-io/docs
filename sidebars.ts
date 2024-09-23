@@ -44,6 +44,13 @@ const sidebars = {
 
       ],
     },
+    {
+      type: 'category',
+      label: 'Instructions',
+      items: [
+        'Verify',
+      ],
+    },
 
   ],
 };
