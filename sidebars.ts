@@ -49,6 +49,7 @@ const sidebars = {
       label: 'Instructions',
       items: [
         'Verify',
+        'Trade',
       ],
     },
 
