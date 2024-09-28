@@ -48,8 +48,8 @@ const sidebars = {
       type: 'category',
       label: 'Instructions',
       items: [
+         'Trade',
         'Verify',
-        'Trade',
       ],
     },
 
