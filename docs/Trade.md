@@ -1,4 +1,4 @@
-# How to Trade Your Cardano Assets for Anything
+# How to Begin Trading
 
 **A step-by-step guide to starting your trading journey on the Crashr Protocol. Trade any digital asset for any digital asset.**
 ![Guideline](/img/Guideline.png)
