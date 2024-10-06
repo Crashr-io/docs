@@ -1,47 +1,68 @@
 # Distribution & Vesting
 
-## Prerequisite 
-
-Our goal is to create an inclusive and decentralized token that reflects our commitment to broad-based participation. To do so, we have allocated a significant portion of the tokens to the public sale. This allows diverse participants to contribute to the token without the risk of high volatility due to the increased supply, regardless of market demand. Ultimately, our tokenomics strategy promotes a balanced and fair token launch, benefiting all participants. 
-
-## Official Token Distribution & Vesting 
-
-![Distribution](/img/Distribution.png)
+Our tokenomics came from a sustainable and longevity perspective while weighing in a fair market launch. Hence, with the large public sale supply, we wanted to ensure the price reflected the protocol's health rather than having closed-door price discovery.
 
 The total supply of the protocol token $CRASH is 100,000,000. To ensure transparency with our tokenomics, we have specifically organized the distribution of the tokens into nine categories, along with their respective locks plus vesting schedules.
 
-**Public Sale: 64.50%**
-The largest allocation, 64.50%, is reserved for the public sale, ensuring a sustainable token economy with the entire allocation released upon the TGE. Scheduled to take place on Coinecta's launchpad on August 5th, 2024, this sale will open up the majority of the token supply to the public.
-- Lock & Vesting: Not Applicable
+![Distribution](/img/Distribution.png)
 
-**Liquidity: 10.00%**
-To facilitate trading and stability, 10% of the total supply will be allocated to the liquidity pool. This pool will be launched on SundaeSwap and additional DEX’s.
-- Lock & Vesting: N/A
+## Public Sale
+- **Percentage**: 64.50%
+- **Details**: The largest allocation, 64.50%, is reserved for the public sale, ensuring a sustainable token economy with the entire allocation released upon the TGE.
+- **TGE**: Took place on Coinecta's launchpad on August 5th, 2024, releasing most of the token supply to the public.
+- **Lock & Vesting**: N/A
+- **Current Circulation**: 64,500,000
 
-**Treasury: 10.00%**
-A 10% allocation is dedicated to the treasury, governed and used for marketing and future fundraising. Therefore, the allocation would consist of PR, CEX listing, marketing hirees, and ad spend for further marketing reach. 
-- Lock & Vesting: 12-month lock with 12-month vesting
+## Liquidity
+- **Percentage**: 10.00%
+- **Details**: To facilitate trading and stability, 10% of the total supply has been allocated to the liquidity pool on Sundaeswap V2.
+- **Lock & Vesting**: N/A
+- **Current Circulation**: 10,000,000
 
-**Development: 7.00%**
-Investing in the continuous improvement of the project, 7% of the tokens are allocated for development. This allocation supports enhancements, new features, and the overall user experience, managed by our skilled team of engineers and designers, including future hires.
-- Lock & Vesting: 12-month lock with 36-month vesting
+## Team Treasury (Operating Expenses)
+- **Percentage**: 10.00%
+- **Details**: This allocation is dedicated to the treasury, used for operations and future fundraising, including PR, CEX listing, hires, and ad spending for further reach.
+- **Lock & Vesting**: 12-month lock with 12-month vesting
+- **Uses**:
+  - 6%: Operational expenses such as marketing, PR, listings, future team hires, and ad spending.
+  - 3%: Reserve for future development needs.
+  - 1%: Beta mechanic rewards (Unlocked 1% for the community).
+- **Current Circulation**: 0
 
-**Audit: 1.00%**
-To maintain the highest security standards, 1% of the tokens are set aside for third-party audits. Upon the token generation event on August 5th, 0.25% will be released to cover initial audit costs that have been conducted by Sundae Labs, with the remainder vested.
-- Lock & Vesting: 12-month lock with 6-month vesting
+## Development
+- **Percentage**: 7.00%
+- **Details**: Investing in the project's continuous improvement, 7% of the tokens are allocated to our development team, SAIB, led by Clark Alesna.
+- **Lock & Vesting**: 12-month lock with 36-month vesting
+- **Current Circulation**: 7,000,000
 
-**ISPO: 3.00%**
-Early supporters who have delegated to our initial stake pool offering (ISPO), CRASH, will receive 3% of the token allocation as a reward for being early adopters. Unallocated tokens from this pool will revert to the treasury for future community proposals.
-- Lock & Vesting: 1-month lock with 6-month vesting
+## Audit
+- **Percentage**: 1.00%
+- **Details**: To maintain the highest security standards, 1% of the tokens are set aside for third-party audits.
+- **Lock & Vesting**: 12-month lock with 6-month vesting
+- **Current Circulation**: 0
 
-**Advisors: 2.00%**
-Advisors contributing early feedback and guidance before platform updates are allocated 2% of the tokens. 
-- Lock & Vesting: 12-month lock with 36-month vesting
+## ISPO
+- **Percentage**: 3.00%
+- **Details**: Early supporters delegated to our initial stake pool offering (ISPO), CRASH, will receive 3% of the token allocation as a reward for being early adopters.
+- **Lock & Vesting**: 1-month lock with 6-month vesting
+- **Final Allocated Tokens**: 3,000,000
 
-**Airdrop: 1.50%**
-Airdrops, accounting for 1.50% of the tokens, are reserved for Bomber’s holders who hold a minimum of 3, Coinecta Stakers who staked 5k cnct minimum, Fren Holders who hold 1 NFT from any Fren NFT Collection, and Holders of 100K NIKE tokens which contribute a minimum amount of 1000 ADA. Users applicable to the airdrop, will be receiving a portion of the airdrop which is weighted on the contribution size during the public sale.
-- Lock & Vesting: 3-month lock
+## Advisors
+- **Percentage**: 2.00%
+- **Details**: Advisors contribute early feedback and guidance before platform updates are allocated 2% of the tokens.
+- **Lock & Vesting**: 12-month lock with 36-month vesting
+- **Current Circulation**: 0
 
-**Points Exchange: 1.00%**
-Lastly, 1% of the tokens are allocated for community members who have accrued points prior to Crashr’s official beta launch. The distribution is weighted based on the number of points held, rewarding our early stakers, and members who have supported us from the beginning. 
-- Lock & Vesting: 3-month lock
+## Airdrop
+- **Percentage**: 1.50%
+- **Details**: Airdrops, accounting for 1.50% of the tokens, are reserved for Bomber’s holders who hold a minimum of 3, Coinecta Stakers who staked 5k cnct minimum, Fren Holders who hold 1 NFT from any Fren NFT Collection, and Holders of 100K NIKE tokens which contribute a minimum amount of 1000 ADA.
+- **Lock & Vesting**: 3-month lock
+- **Current Circulation**: 0
+
+## Points Exchange
+- **Percentage**: 1.00%
+- **Details**: Lastly, 1% of the tokens are allocated to community members who have accrued points before Crashr’s official beta launch.
+- **Lock & Vesting**: 3-month lock
+- **Current Circulation**: 0
+
+**As of 10.06.24, the current total circulating supply is 74,750,000.**
