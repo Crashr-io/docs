@@ -21,6 +21,7 @@ const sidebars = {
         'Get Started/Roadmap',
         'Get Started/Whitepaper',
         'updates', 
+        'Audits', 
       ],
     },
     {
