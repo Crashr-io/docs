@@ -3,4 +3,4 @@ sidebar_position: 3
 ---
 # Audit
 
-<a href="/CrashrAudit.pdf" download>Orderbook Multi-Asset Trading Audit by Sundae Labs </a>
+[Orderbook Multi-Asset Trading Audit by Sundae Labs](https://cdn.sundaeswap.finance/audits/crashr.pdf)
