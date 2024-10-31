@@ -43,7 +43,7 @@ Where:
 𝐴 = The total number of actions (listings, offers, and trades)
 Bm = The total bonus multipliers
 
-Additionally, in the example, you will gain an extra 0.05x daily on top of the 13,500 CRASH each consecutive week to hold, equating to 675 CRASH a week for the scenario example.
+Additionally, in this example, after reaching the cap, you will earn an extra 0.05x multiplier for each additional consecutive day you continue trading.
 
 ## Bonus for Bombers Holders
 All Bombers holders will receive an additional 0.01x multiplier for each Bomber they hold at the end of the beta additional to the total bonus multipliers.
