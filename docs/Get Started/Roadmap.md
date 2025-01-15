@@ -26,7 +26,7 @@ Regarding the Protocol Beta, below are the two phases we will focus on and compl
   - Smart Contract Audit
   - Continuous minor bug fixes and implementations
 
-## Phase 2: Perfection, Speed, and Growth - In Progress
+## Phase 2: Perfection, Speed, and Growth - Completed
 
 - Crashr Beta Features Coming Soon
   - **JPG Price Indexing and Aggregation**: By aggregating JpgStore's Smart Contract, you can build transactions straight on Crashr, and trade any token for anything listed on JpgStore, providing no limitations for the buyer or seller.
